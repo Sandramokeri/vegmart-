@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap'); 
+.navbar-brand{
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+    color: white   
+ }
+.img1{
+    width:auto;
+    height: 200px;
+ }
+.cart-img{
+    width: 150px;
+    height: 100px;
+}
+body{
+    background-color: darksalmon;
+}
+ 
+
+
